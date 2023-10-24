@@ -1,0 +1,6 @@
+site_name: Giantomaso Tech
+site_url: https://ricardo.com/
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
