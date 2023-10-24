@@ -1,18 +1,21 @@
-# Welcome to MkDocs
+# Bem vindo(a) ao meu portfólio!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Olá, visitante curioso e entusiasta da tecnologia! Eu sou o Ricardo, um apaixonado desenvolvedor de software dedicado a transformar ideias em soluções digitais incríveis. Sou um profissional comprometido e inovador, com anos de experiência na arte de programar. Meu fascínio por resolver problemas complexos e criar experiências digitais excepcionais me impulsiona diariamente. 
 
-## Commands
+Confira no site os projetos que desenvolvi juntamente com as tecnologias que domino, meu currículo e minhas redes sociais!
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### Redes Sociais
 
-## Project layout
+- [GitHub](https://github.com/ricgiantomaso)
+- [Linkedin](https://www.linkedin.com/in/ricardo-giantomaso-29305a42/)
+- [Instagram](https://instagram.com/ricgiantomaso)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-    
+
+### Project layout
+
+```
+def olamundo():
+    if site_open = True
+        return HelloWorld
+
+```

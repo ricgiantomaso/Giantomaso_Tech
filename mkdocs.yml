@@ -2,5 +2,13 @@ site_name: Giantomaso Tech
 site_url: https://ricardo.com/
 nav:
   - Home: index.md
-  - About: about.md
+  - Meus Projetos: my_projects.md
+  - Sobre: about.md
+  - Currículo: resume.md
 theme: readthedocs
+markdown_extensions:
+  - pymdownx.emoji
+  - pymdownx.tasklist
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.highlight
