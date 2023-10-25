@@ -2,24 +2,27 @@
 
 ## Carreira
 
-Lorem markdownum depositura turbae desertaque medicina, ignes sunt silvas
-condidit, imagine. Ulciscere adhuc: sequitur primos fornacibus esse, et me ardet
-dicturus vias [equos Edonidas](http://paterdeae.net/altis), oculos visa rapuere.
-Eo nunc dominoque en penates non faciemque suos sistraque populante venisse!
+<p align="justify">Tive contato com código desde jovem: Aos 17 anos fiz faculdade de licenciatura em Sistemas e
+Tecnologia da Informação e, na graduação, fiquei maravilhado com o quanto podemos mudar vidas
+usando tecnologia. Sempre acompanhei as mudanças das tecnologias no mundo e hoje sigo
+estudando e buscando uma recolocação no mercado de trabalho para essa área que tanto me fascina.</p>
 
 ## Tecnologias
 
-Percutiens desine, nunc Atridae iaculum labor regem: sedisti erat sua levat,
-acceptissimus coniugis. Me inponis eadem propiore. Cytherea *mea Matri
-convertit* aperire contingere Zanclen paelice tutus semper ministrarum Andros.
-Centum saepe? Nocte pastor togaque extemplo pariter domus **iubeatve** petit.
+No momento, atuo e/ou estudo as seguintes tecnologias:
+
+- Python
+- MySQL
+- MongoDB
+- FastAPI
+- Docker
+- Git/Github
+- Delphi
+- MKDocs
+
 
 ## Objetivos
 
-Reddere perque, sed nonus nescio minimo rotisque habenas; pomaria tamen te
-inducere timori, tum falle. Madent ut una crearat, excidit Stygiisque mala fit;
-saepe puer idem et.
-
-```
-zé da manga = 1
-```
+<p align="justify">Meu maior objetivo a longo prazo é manter minha rotina de estudos e adquirir mais
+experiência no mercado de trabalho como desenvolvedor back-end e/ou fullstack. Dessa forma, posso
+aprimorar meus conhecimentos e me tornar um desenvolvedor de software de alto desempenho.</p>

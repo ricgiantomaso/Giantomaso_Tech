@@ -1,55 +1,99 @@
 # Currículo
 
+<h2> Ricardo Messias Rocha Santos Giantomaso </h2>
+
+
+
+
 ## Dados Pessoais
 
-*Lorem* markdownum *vel* peti et flagrat praemia. *Me quae inulti* oppugnant
-temptat ignes infausto, Eurotan [atque munere
-vocem](http://speravit.io/amphrisiaelin.php). Maeandros videtur demugitaeque
-nempe celebrant pallet rogumque in esset mirabile caelebs. Cruorem sed rostro
-**atram omnes** illo a velut pignus est victoria tangere, mihi.
+**Endereço:** Rua Luiz Antônio Alves, 98, Água Branca III, Avaré, São Paulo, 18702-838
 
-Lenaeo quoque Niobe, in summorum Ceycis ungula nusquam hic salices pensaque.
-Audiat quo rerum ianua pars videat et Ampyx Babylonia posse dissipat: Minyae
-verba nam, signa?
+**Telefone:** (14) 98801-1851
 
-- Nocte conprensam matrum multis frequens membra fidum
-- Edidit cognoscere latus iaculum flagratque qui suos
-- Manu accipitris perque defensatque locum tendentemque conversa
-- Mei ego matrem umeris
+**E-mail:** ricardo_tech@live.com
+
+
 
 ## Habilidades
 
-Exit est amor, hic **tibi**, pectore matris ultimus sitis, Hector. Loca credens
-tamen: Penelopae quod prior in ferarum quod.
+| Back-end | 
+|--------|
+|Python|
+| Delphi |
+| Flask |
+| FastAPI|
 
-- Rapidi iterum quoque
-- Erat quater
-- Quod per oracula visa fluctus de timeat
+| Front-end | 
+|--------|
+|HTML5|
+| CSS3 |
+| JavaScript |
 
+| Database |
+|--------|
+|MySQL|
+| PostgreSQL |
+| MongoDB |
+
+| Extras | 
+|--------|
+|Git/Github|
+| Scrum / Kanban |
+| Docker |
+| HTTP |
+| Rest APIs |
+| MKDocs |
+
+| Soft skills | 
+|--------|
+|Comunicação|
+| Adaptabilidade |
+| Teamwork |
+| Criatividade |
+| Empatia |
+| Pensamento Crítico |
 
 ## Experiência Profissional
 
-Exit est amor, hic **tibi**, pectore matris ultimus sitis, Hector. Loca credens
-tamen: Penelopae quod prior in ferarum quod.
+**Analista de Sistemas**
 
-- Rapidi iterum quoque
-- Erat quater
-- Quod per oracula visa fluctus de timeat
+- Empírica Investimentos Gestão de Recursos LTDA.
+- Novembro de 2022 - Abril de 2023
+- Atribuições: Atendimentos de chamados aos clientes internos, elaboração de queries, procedures e
+functions em SQL, geração de relatórios com VBA, codificação de ETLs com Python utlizando metodologias ágeis.
+
+**Auxiliar Administrativo**
+
+- Prefeitura Municipal da Estância Turística de Avaré 
+- Agosto de 2014 - Novembro de 2022
+- Atribuições: Organização de arquivos, agendamentos, contatos telefônicos, serviços administrativos
+em geral.
+
+**Técnico em Informática**
+
+- Tecnotex Alarm Control LTDA.
+- Janeiro de 2014 - Jullho de 2014
+- Atribuições: Manutenção de hardware, configuração de servidores de CFTV, acesso remoto e montagem
+de servidores.
+
+**Instrutor de Tecnologia da Informação**
+
+- Sindicato dos Trabalhadores Metalúrgicos do Vale do Paranapanema
+- Março de 2012 - Fevereiro de 2013
+- Atribuições: Ministração de aulas, administração de hardware, digitação de documentos e serviços
+administrativos em geral.
+
 
 ## Formação Acadêmica
 
-Exit est amor, hic **tibi**, pectore matris ultimus sitis, Hector. Loca credens
-tamen: Penelopae quod prior in ferarum quod.
+- **Licenciatura em Sistemas e Tecnologia da Informação.** Faculdade de Tecnologia de Ourinhos. 
+Concluído em 2012.
 
-- Rapidi iterum quoque
-- Erat quater
-- Quod per oracula visa fluctus de timeat
+- **Técnico em Informática.** Escola Técnica Estadual de Avaré.
+Concluído em 2009.
 
 ## Extras
 
-Exit est amor, hic **tibi**, pectore matris ultimus sitis, Hector. Loca credens
-tamen: Penelopae quod prior in ferarum quod.
-
-- Rapidi iterum quoque
-- Erat quater
-- Quod per oracula visa fluctus de timeat
+- Carteira Nacional de Habilitação - Categoria AB
+- Inglês: Leitura avançada | Escrita Intermediária | Conversação Intermediária
