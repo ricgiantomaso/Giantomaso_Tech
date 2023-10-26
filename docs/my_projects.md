@@ -7,7 +7,7 @@ Aqui estão listados apenas alguns dos meus projetos, para conferir mais, acesse
 **Descrição do projeto:**
 <p align="justify">Um conversor de moedas feito com Java Script, HTML e CSS. Esse aplicativo converte o valor inserido em Real e retorna uma saída em Euro, Iene ou em Dólar. Foi estruturado com HTML puro e estilizado com CSS sem utilização de qualquer framework.</p>
 
-<img src="/assets/coinconverter.png" width="700" height="400"/>
+<img src="assets/coinconverter.png" width="700" height="400"/>
 
 Tecnologias usadas
 
