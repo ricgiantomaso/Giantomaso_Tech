@@ -5,7 +5,7 @@
 
 Confira no site os projetos que desenvolvi juntamente com as tecnologias que domino, meu currículo e minhas redes sociais!</p>
 
-<img src="/assets/myphoto.jpg" width="250" height="250"/>
+![](./assets/myphoto.jpg)
 
 ### Redes Sociais
 
