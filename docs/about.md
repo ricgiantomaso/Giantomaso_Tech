@@ -1,5 +1,5 @@
 # Sobre Mim
-
+<br>
 ## Carreira
 
 <p align="justify">Tive contato com código desde jovem: Aos 17 anos fiz faculdade de licenciatura em Sistemas e

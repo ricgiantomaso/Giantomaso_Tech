@@ -5,7 +5,7 @@ nav:
   - Meus Projetos: my_projects.md
   - Sobre: about.md
   - Currículo: resume.md
-theme: readthedocs
+theme: yeti
 markdown_extensions:
   - pymdownx.emoji
   - pymdownx.tasklist

@@ -1,9 +1,5 @@
 # Currículo
-
-<h2> Ricardo Messias Rocha Santos Giantomaso </h2>
-
-
-
+<br>
 
 ## Dados Pessoais
 
